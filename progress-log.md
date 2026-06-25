@@ -5,6 +5,37 @@ For deep-dive problem-solving writeups, see the [writeups](writeups/) folder.
 
 ---
 
+### TryHackMe — Computer Fundamentals module (complete)
+
+Completed the Computer Fundamentals module. Much of the hardware and OS
+material was reinforcement of my A+ studies, but the virtualization and
+cloud rooms connected directly to my cloud security goal.
+
+**Rooms covered:** Inside a Computer, Computer Types, Client-Server,
+Virtualization Basics, Cloud Computing Fundamentals.
+
+**Key concepts:**
+- **Boot process** — what happens at power-on: firmware → POST → select boot
+  device → bootloader; UEFI holds the boot order.
+- **Computer types** — desktops, laptops, workstations, servers, plus IoT and
+  embedded devices, and what each is purpose-built for.
+- **Client-server model** — how a client request travels (DNS, ports,
+  protocols) to reach a server and return a response.
+- **HTTP methods & inspection** — intro to request commands (focused on GET).
+  In a VM, used browser inspection to break down a page's components — scheme,
+  host, filename, full address, and response status — and monitored its live
+  GET requests.
+- **Virtualization** — hypervisors (Type 1 vs Type 2), containers, and why
+  virtualization exists.
+- **Cloud service models** — IaaS, PaaS, SaaS, and deployment models
+  (public, private, hybrid). Used a VM to deploy a cloud instance.
+
+**Takeaway:** The cloud and virtualization rooms were the most valuable here —
+they're the foundation of where I'm headed with cloud security, so seeing the
+service models and hypervisor types hands-on was a useful first exposure.
+
+---
+
 ### TryHackMe — Network Fundamentals module (complete)
 
 Completed the full Network Fundamentals module — a foundational deep-dive
