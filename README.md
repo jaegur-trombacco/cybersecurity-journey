@@ -25,7 +25,7 @@ through TryHackMe, and getting hands-on with real hardware and Linux.
 ## Hands-on tracks
 
 - **TryHackMe:** Pre-Security ✅ complete · Cyber Security 101 (in progress)
-- **Home lab:** [the ASRock Z77 / i7-4790K build]
+- **Home lab:** the ASRock Z77 / i7-4790K build
 
 ---
 
