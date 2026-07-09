@@ -5,7 +5,7 @@ For deep-dive problem-solving writeups, see the [writeups](writeups/) folder.
 
 ---
 
-### 2026-07-08 TryHackMe — Pre-Security path (COMPLETE) 
+### 07-04-2026 TryHackMe — Pre-Security path (COMPLETE) 
 
 Finished the full Pre-Security path. Earlier modules are logged individually
 above; this entry covers the remaining four and marks the path complete.
@@ -33,7 +33,7 @@ material connected most directly to where I'm headed.
 
 ---
 
-### 2026-02-08 - Study — ongoing
+### 07-08-2026 - Study — ongoing
 - **Moving onto Cyber Security 101 THM**
 - **Linux Basics for Hackers by OTW** — resumed, through Chapter 4.
 - **CompTIA A+ Core 2** — Section 1 complete (Operating Systems, Installing
