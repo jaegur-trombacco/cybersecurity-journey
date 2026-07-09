@@ -7,7 +7,7 @@ For deep-dive problem-solving writeups, see the [writeups](writeups/) folder.
 
 ### 07-08-2026 - Study — ongoing
 - **Moving onto Cyber Security 101 THM**
-- **Linux Basics for Hackers by OTW** — resumbed, up to chapter 5.
+- **Linux Basics for Hackers by OTW** — resumbed, through chapter 5.
 - **CompTIA A+ Core 2** — Section 1 complete (Operating Systems, Installing
   Operating Systems, Microsoft Windows, The Windows OS, The Windows Command Line,
   Windows Settings, Windows Networking, macOS, Linux, Installing Application,
