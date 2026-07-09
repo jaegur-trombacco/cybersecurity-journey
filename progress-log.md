@@ -43,7 +43,7 @@ material connected most directly to where I'm headed.
 
 ---
 
-### TryHackMe — Computer Fundamentals module (complete)
+### 06/24/2026 TryHackMe — Computer Fundamentals module (complete)
 
 Completed the Computer Fundamentals module. Much of the hardware and OS
 material was reinforcement of my A+ studies, but the virtualization and
@@ -74,7 +74,7 @@ service models and hypervisor types hands-on was a useful first exposure.
 
 ---
 
-### TryHackMe — Network Fundamentals module (complete)
+### 06/23/2026 TryHackMe — Network Fundamentals module (complete)
 
 Completed the full Network Fundamentals module — a foundational deep-dive
 that reinforced and extended my A+ networking knowledge.
@@ -99,7 +99,7 @@ firewalls, and ARP all made more sense once I could place them at a layer.
 
 ---
 
-### TryHackMe — Introduction to Cyber Security module (complete)
+### 06/20/2026 TryHackMe — Introduction to Cyber Security module (complete)
 
 Completed the 3-room intro module:
 
