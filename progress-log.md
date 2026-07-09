@@ -5,6 +5,44 @@ For deep-dive problem-solving writeups, see the [writeups](writeups/) folder.
 
 ---
 
+### 2026-07-08 TryHackMe — Pre-Security path (COMPLETE) 
+
+Finished the full Pre-Security path. Earlier modules are logged individually
+above; this entry covers the remaining four and marks the path complete.
+
+**Operating Systems Basics** — OS fundamentals across platforms, with hands-on
+command line work in both Linux and Windows CLIs, plus an introduction to
+operating system security concepts.
+
+**Software Basics** — how computers represent and encode data, plus first
+exposure to Python and JavaScript through simple demos, and the basics of
+querying databases with SQL.
+
+**How The Web Works** — DNS resolution in depth, the HTTP protocol and its
+request/response structure, how websites are built and served, and tying it
+together end-to-end.
+
+**Attacks and Defenses** — the CIA triad (confidentiality, integrity,
+availability) as the foundational security model, core cryptography concepts,
+and an introduction to both the attacker's and defender's perspectives.
+
+**Takeaway:** The path deliberately alternates offense and defense, and that
+framing stuck with me — the same event looks completely different depending on
+which side of it you're standing on. Coming out of it, the web and networking
+material connected most directly to where I'm headed.
+
+---
+
+### 2026-02-08 - Study — ongoing
+- **Moving onto Cyber Security 101 THM**
+- **Linux Basics for Hackers by OTW** — resumed, through Chapter 4.
+- **CompTIA A+ Core 2** — Section 1 complete (Operating Systems, Installing
+  Operating Systems, Microsoft Windows, The Windows OS, The Windows Command Line,
+  Windows Settings, Windows Networking, macOS, Linux, Installing Application,
+  Cloud Producitivity).
+
+---
+
 ### TryHackMe — Computer Fundamentals module (complete)
 
 Completed the Computer Fundamentals module. Much of the hardware and OS
