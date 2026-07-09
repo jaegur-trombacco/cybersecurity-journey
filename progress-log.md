@@ -5,6 +5,16 @@ For deep-dive problem-solving writeups, see the [writeups](writeups/) folder.
 
 ---
 
+### 07-08-2026 - Study — ongoing
+- **Moving onto Cyber Security 101 THM**
+- **Linux Basics for Hackers by OTW** — resumed, through Chapter 4.
+- **CompTIA A+ Core 2** — Section 1 complete (Operating Systems, Installing
+  Operating Systems, Microsoft Windows, The Windows OS, The Windows Command Line,
+  Windows Settings, Windows Networking, macOS, Linux, Installing Application,
+  Cloud Producitivity).
+
+---
+
 ### 07-04-2026 TryHackMe — Pre-Security path (COMPLETE) 
 
 Finished the full Pre-Security path. Earlier modules are logged individually
@@ -30,16 +40,6 @@ and an introduction to both the attacker's and defender's perspectives.
 framing stuck with me — the same event looks completely different depending on
 which side of it you're standing on. Coming out of it, the web and networking
 material connected most directly to where I'm headed.
-
----
-
-### 07-08-2026 - Study — ongoing
-- **Moving onto Cyber Security 101 THM**
-- **Linux Basics for Hackers by OTW** — resumed, through Chapter 4.
-- **CompTIA A+ Core 2** — Section 1 complete (Operating Systems, Installing
-  Operating Systems, Microsoft Windows, The Windows OS, The Windows Command Line,
-  Windows Settings, Windows Networking, macOS, Linux, Installing Application,
-  Cloud Producitivity).
 
 ---
 
