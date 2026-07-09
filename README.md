@@ -14,7 +14,7 @@ through TryHackMe, and getting hands-on with real hardware and Linux.
 
 ## Certifications
 
-- ✅ CompTIA A+ Core 1 (220-1101) — passed [June/2026]
+- ✅ CompTIA A+ Core 1 (220-1101) — passed June/2026
 - 🔄 CompTIA A+ Core 2 (220-1102) — in progress
 - ⬜ CompTIA Security+ — planned
 
