@@ -69,8 +69,7 @@ Virtualization Basics, Cloud Computing Fundamentals.
   (public, private, hybrid). Used a VM to deploy a cloud instance.
 
 **Takeaway:** The cloud and virtualization rooms were the most valuable here —
-they're the foundation of where I'm headed with cloud security, so seeing the
-service models and hypervisor types hands-on was a useful first exposure.
+foundational for the security path I'm building toward, and useful hands-on exposure to service models and hypervisor types. 
 
 ---
 
