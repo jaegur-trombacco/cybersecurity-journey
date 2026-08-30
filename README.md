@@ -1,4 +1,4 @@
-# Cybersecurity Journey
+# Cybersecurity and IT Journey
 Documenting my transition into IT and cybersecurity — the certs, the hands-on
 labs, and the things I break and fix along the way.
 
